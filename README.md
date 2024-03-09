@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 I'm currently learning Java<br>🎲 Fun fact: I hate php</p>
+<p align="left">✨ Coding since 2023<br>📚 I'm currently learning C++
 
 ###
 
