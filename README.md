@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 </h1>
 
 ###
 
-<p align="left">My name is ruxixa and I'm from Poland</p>
+<p align="left">My name is ruxixa!
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 I'm currently learning C++
+<p align="left">✨ Coding since 2023<br>📚 Ccurrently learning C++
 
 ###
 
