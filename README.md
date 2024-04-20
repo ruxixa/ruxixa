@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 Ccurrently learning C++
+<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript
 
 ###
 
