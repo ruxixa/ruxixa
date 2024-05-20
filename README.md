@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript
+<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript & TypeScript
 
 ###
 
