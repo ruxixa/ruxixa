@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript & TypeScript<br>🎯 My goal: 2000 contributions this year
+<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript & Kotlin<br>🎯 My goal: 2000 contributions this year
 
 ###
 
