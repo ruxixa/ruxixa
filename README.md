@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">✨ Coding since 2023<br>📚 Currently learning JavaScript & Kotlin<br>🎯 My goal: 2000 contributions this year
+<p align="left">
+  ✨ Coding since 2023<br>
+  📚 Currently learning JavaScript & Kotlin<br>
+  🎯 My goals: <br>
+  - 2000 contributions this year<br>
+  - At least 1 commit daily to the end of year
 
 ###
 
